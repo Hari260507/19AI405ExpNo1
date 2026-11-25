@@ -1,8 +1,8 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: ARAVIND G
-<h3>Register Number: 212223240011
+<h3>Name: HAREKRISHNAAA M
+<h3>Register Number: 212224040095
   
-## Date: 10/11/2026
+## Date: 25/11/2026
 
 <h3>AIM:</h3>
 <br>
